@@ -1,0 +1,16 @@
+{
+    "name": "fadeeva/small-talk-with-hexlet",
+    "description": "Small talk with Hexlet",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Irina Fadeeva",
+            "email": "if7129@gmail.com"
+        }
+    ],
+    "require": {},
+    "bin": [
+        "./sayHi",
+        "./sayBye"
+    ]
+}
